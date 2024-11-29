@@ -5,7 +5,7 @@ Estos nombres han sido aprobados para que los utilices en tu perfil de redes soc
 
 Te recomendamos evitar el uso de nombres o etiquetas antiguas, ya que han quedado en desuso y no representan plenamente la identidad actual del servidor.
 
-> Pulsa para mostrar los identificadores únicos
+> [Pulsa para mostrar los identificadores únicos](https://hotel-viciados.github.io/Portal/clan_tags/verified_clan_tags_md5)
 
 
 ## 🔠 Nombres

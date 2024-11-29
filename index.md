@@ -1,4 +1,5 @@
 ﻿# Hotel Viciados™
 ## Inicio / Índice
 
-**No hay nada por aquí todavía. 👀**
+ - [Nombres y Etiquetas verificadas](https://hotel-viciados.github.io/Portal/clan_tags/verified_clan_tags)
+
