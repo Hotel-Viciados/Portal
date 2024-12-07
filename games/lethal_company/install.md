@@ -1,5 +1,6 @@
 ﻿# ![32x32 Icon](https://cdn2.steamgriddb.com/icon/5d29c687a58bc919bd4b28609e2f7134/32/32x32.png) Lethal Company
 ![Banner](https://cdn2.steamgriddb.com/hero_thumb/d24b5b45c12c52ba7ad088c4663cd5c8.jpg)
+
 **A co-op horror roguelite about an abandoned industrial moon.**
 
 ## Instalar
