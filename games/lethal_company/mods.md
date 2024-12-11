@@ -21,7 +21,7 @@ Para **actualizar los mods**, pulsa [aquí](https://hotel-viciados.github.io/Por
 
 9. Haz clic en **Profile > Change profile > Import / Update > Import new profile** > **From code**.
 10. Ingresa el código:  
-   `0193b1c8-8a45-d361-42a3-bdc417c352c0`
+   `0193b6b8-5c9a-64dc-7dc0-94da1963214c`
 
 ## Actualizar Mods
 
@@ -29,5 +29,5 @@ Para **actualizar los mods**, pulsa [aquí](https://hotel-viciados.github.io/Por
 2. Haz clic en **Viciados**.
 3. Luego, selecciona **Import / Update > Update existing profile > From code**.
 4. Ingresa el código:  
-   `0193b1c8-8a45-d361-42a3-bdc417c352c0`
+   `0193b6b8-5c9a-64dc-7dc0-94da1963214c`
 5. Haz clic en **Import**.
