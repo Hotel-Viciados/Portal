@@ -21,13 +21,28 @@ Para **actualizar los mods**, pulsa [aquí](https://hotel-viciados.github.io/Por
 
 9. Haz clic en **Profile > Change profile > Import / Update > Import new profile** > **From code**.
 10. Ingresa el código:  
-   `0193b6b8-5c9a-64dc-7dc0-94da1963214c`
+   `0193bc61-aea8-d4ff-5baf-ddb278f363be` **> Import**
+11. Crea un acceso directo de "Lethal Company.exe" en el escritorio (si ya lo has hecho, omite este paso)
+12. Accede a las propiedades del acceso directo (**Clic derecho > Propiedades**)
+13. **Copia este comando:** `--doorstop-enable true --doorstop-target "%appdata%\r2modmanPlus-local\LethalCompany\profiles\Viciados\BepInEx\core\BepInEx.Preloader.dll"` y pégalo como se muestra en la siguiente imagen               
+![Propiedades](https://i.imgur.com/cizAdKk.gif)
+
+14. Abre **Steam** y pon **r2Modman** encima. Sigue los pasos de la siguiente imagen 
+> NOTA: SI NO APARECE EL CARTEL "NO HAY LICENCIAS", VUELVE A PULSAR EN "Start modded"
+
+![Primer inicio](https://i.imgur.com/hnqiMhO.gif)
+
+> Si todo sale bien, debe de abrirse una consola (Modloader), y después el juego.
+
+**NOTA: Solo debes hacer esto la primera vez, cuando quieras abrir el juego, solo abre el acceso directo.**
+
+
 
 ## Actualizar Mods
 
-1. Abre **r2modman**.
+1. Abre **r2Modman**.
 2. Haz clic en **Viciados**.
 3. Luego, selecciona **Import / Update > Update existing profile > From code**.
 4. Ingresa el código:  
-   `0193b6b8-5c9a-64dc-7dc0-94da1963214c`
-5. Haz clic en **Import**.
+   `0193bc61-aea8-d4ff-5baf-ddb278f363be`
+5. Haz clic en **Update**.
