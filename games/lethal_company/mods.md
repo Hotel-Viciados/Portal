@@ -21,7 +21,7 @@ Para **actualizar los mods**, pulsa [aquí](https://hotel-viciados.github.io/Por
 
 9. Haz clic en **Profile > Change profile > Import / Update > Import new profile** > **From code**.
 10. Ingresa el código:  
-   `0193c783-2158-e482-ccfe-b4c69c538848` **> Import**
+   `0193e0a1-c21a-5449-e7a9-6df878cc2e52` **> Import**
 11. Crea un acceso directo de "Lethal Company.exe" en el escritorio (si ya lo has hecho, omite este paso)
 12. Accede a las propiedades del acceso directo (**Clic derecho > Propiedades**)
 13. **Copia este comando:** `--doorstop-enable true --doorstop-target "%appdata%\r2modmanPlus-local\LethalCompany\profiles\Viciados\BepInEx\core\BepInEx.Preloader.dll"` y pégalo como se muestra en la siguiente imagen               
@@ -44,5 +44,5 @@ Para **actualizar los mods**, pulsa [aquí](https://hotel-viciados.github.io/Por
 2. Haz clic en **Viciados**.
 3. Luego, selecciona **Import / Update > Update existing profile > From code**.
 4. Ingresa el código:  
-   `0193c783-2158-e482-ccfe-b4c69c538848`
+   `0193e0a1-c21a-5449-e7a9-6df878cc2e52`
 5. Haz clic en **Update**.
