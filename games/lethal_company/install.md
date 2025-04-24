@@ -38,8 +38,8 @@ Para **actualizar** el juego, pulsa [aquí](https://hotel-viciados.github.io/Por
 
 1. Escribe **/juegos** en cualquier canal (por ejemplo, **#comandos**).
 2. Selecciona **Lethal Company** en la lista de juegos.
-3. Haz clic en el enlace de Steam que te envía el bot.
-4. **Descarga** el juego nuevamente desde Steam.
+3. Haz clic en el enlace de """Steam""" que te envía el bot.
+4. **Descarga** el juego nuevamente desde """Steam""".
 5. Abre el archivo **RAR** y entra en la carpeta **Lethal Company** dentro del **RAR**.
 6. Selecciona y copia todos los archivos dentro de esa carpeta.
 7. **Sobrescribe** los archivos existentes del juego:
@@ -47,3 +47,4 @@ Para **actualizar** el juego, pulsa [aquí](https://hotel-viciados.github.io/Por
    - **Si tienes Playnite**: Haz clic derecho sobre **Lethal Company** > **Abrir carpeta del juego** > Pega los archivos y selecciona **Sobrescribir todo**.
    - **Si no tienes Playnite**: Busca la carpeta donde tienes el juego instalado, pega los archivos y selecciona **Sobrescribir todo**.
 
+---
