@@ -30,7 +30,7 @@ Para **actualizar los mods**, pulsa [aquí](https://hotel-viciados.github.io/Por
 14. Abre **Steam** y pon **r2Modman** encima. Sigue los pasos de la siguiente imagen 
 > NOTA: SI NO APARECE EL CARTEL "NO HAY LICENCIAS", VUELVE A PULSAR EN "Start modded"
 
-![Primer inicio](https://i.imgur.com/hnqiMhO.gif)
+![Primer inicio](https://github.com/Hotel-Viciados/Portal/blob/main/games/lethal_company/res/start-modded.gif?raw=true)
 
 > Si todo sale bien, debe de abrirse una consola (Modloader), y después el juego.
 
