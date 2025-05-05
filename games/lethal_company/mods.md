@@ -14,20 +14,21 @@ Para **actualizar los mods**, pulsa [aquí](https://hotel-viciados.github.io/Por
 4. Instala y abre **r2modman**.
 5. En el buscador de **r2modman**, busca **"Lethal Company"**.
 6. Elige **"Select as default"**.
-7. Haz clic en **Default > Select profile > Settings > Locations** y luego en **Change Lethal Company folder**.
-8. Selecciona el ejecutable del juego como se muestra en la imagen a continuación:
+7. Haz click en **Settings** en el panel izquierdo.
+8. Haz clic en **Default > Select profile > Settings > Locations** y luego en **Change Lethal Company folder**.
+9. Selecciona el ejecutable del juego como se muestra en la imagen a continuación:
 
    ![Ejemplo de ejecutable](https://i.imgur.com/jogcve9.png)
 
-9. Haz clic en **Profile > Change profile > Import / Update > Import new profile** > **From code**.
-10. Ingresa el código:  
-   `019669c9-4bfe-6f9d-dc2c-24b92ab206cd` **> Import**
-11. Crea un acceso directo de "Lethal Company.exe" en el escritorio (si ya lo has hecho, omite este paso)
-12. Accede a las propiedades del acceso directo (**Clic derecho > Propiedades**)
-13. **Copia este comando:** `--doorstop-enable true --doorstop-target "%appdata%\r2modmanPlus-local\LethalCompany\profiles\Viciados\BepInEx\core\BepInEx.Preloader.dll"` y pégalo como se muestra en la siguiente imagen               
+10. Haz clic en **Profile > Change profile > Import / Update > Import new profile** > **From code**.
+11. Ingresa el código:  
+   `019669c9-4bfe-6f9d-dc2c-24b92ab206cd` **> Continue/Import > Import** (puede que este paso cambie debido a una actualización del launcher)
+12. Crea un acceso directo de "Lethal Company.exe" en el escritorio (si ya lo has hecho, omite este paso)
+13. Accede a las propiedades del acceso directo (**Clic derecho > Propiedades**)
+14. **Copia este comando:** `--doorstop-enable true --doorstop-target "%appdata%\r2modmanPlus-local\LethalCompany\profiles\Viciados\BepInEx\core\BepInEx.Preloader.dll"` y pégalo como se muestra en la siguiente imagen               
 ![Propiedades](https://i.imgur.com/cizAdKk.gif)
 
-14. Abre **Steam** y pon **r2Modman** encima. Sigue los pasos de la siguiente imagen 
+15. Abre **Steam** y pon **r2Modman** encima. Sigue los pasos de la siguiente imagen 
 > NOTA: SI NO APARECE EL CARTEL "NO HAY LICENCIAS", VUELVE A PULSAR EN "Start modded"
 
 ![Primer inicio](https://github.com/Hotel-Viciados/Portal/blob/main/games/lethal_company/res/start-modded.gif?raw=true)
